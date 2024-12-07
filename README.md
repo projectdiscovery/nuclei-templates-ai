@@ -1,4 +1,4 @@
-# AI-Generated Nuclei Templates
+# AI-Generated Nuclei Templates 👾
 
 > Before we dive into the details, We want to highlight our [templates leaderboard](https://cloud.projectdiscovery.io/templates/leaderboard) for the community and the [Nuclei Templates Community Rewards Program](https://github.com/projectdiscovery/nuclei-templates/blob/main/Community-Rewards-FAQ.md). You can learn more about these initiatives [here](https://projectdiscovery.io/blog/announcing-the-nuclei-templates-community-leaderboard-and-rewards). We are currently running a program where we send stickers to all first-time contributors. This is a great opportunity to pick an AI-generated template, review it, set up a vulnerable environment, and submit a pull request with the debug data for our team to review on [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates). In addition to this, we plan to send swag to our top contributors each month.
 
