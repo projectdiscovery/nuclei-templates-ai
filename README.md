@@ -28,7 +28,10 @@ The main challenge we face is automated verification of generated templates. We 
 
 ## 🏆 Get Involved
 
+> Try our [Nuclei Template AI Editor](https://cloud.projectdiscovery.io/templates) to experiment with AI-powered template generation!
+
 > Join our [templates leaderboard](https://cloud.projectdiscovery.io/templates/leaderboard) and participate in the [Nuclei Templates Community Rewards Program](https://github.com/projectdiscovery/nuclei-templates/blob/main/Community-Rewards-FAQ.md). First-time contributors receive stickers, and top monthly contributors get special swag!
+
 
 ## 🔄 How It Works
 
