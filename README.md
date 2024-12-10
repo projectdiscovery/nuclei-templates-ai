@@ -1,6 +1,6 @@
 # AI-Generated Nuclei Templates 👾
 
-> This project is an implementation of our vision detailed in [The Future of Nuclei Templates with AI Automation](https://blog.projectdiscovery.io/future-of-nuclei-templates-with-ai-automation/)
+> This project is an implementation of our vision detailed in [From CVE to Template: The Future of Automating Nuclei Templates with AI](https://blog.projectdiscovery.io/future-of-automating-nuclei-templates-with-ai/)
 
 This repository demonstrates the power of AI in automating security template generation for vulnerability detection. Using ProjectDiscoveryAI API, we automatically generate Nuclei templates for newly disclosed CVEs and existing vulnerabilities.
 
